@@ -40,7 +40,7 @@
 /*** Portfolio pieces ***/
 .portfolio-thumbnail {
   background-color: #fff;
-  border-color: #863ee3;
+  border-color: #e61c04;
   border-width: 2px;
   width: 95%;
 }
@@ -85,7 +85,7 @@ a:hover {
 }
 
 .jumbotron {
-  background-image: url("../assets/contour-lines.png");
+  background-image: url("../assets/space.jpg");
   text-align: center;
   color: #fff;
   padding: 2%;
